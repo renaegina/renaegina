@@ -1,3 +1,4 @@
+![logo](https://resources.jetbrains.com/storage/products/blog/wp-content/uploads/phpstorm/laravel-campaign/02-routes.gif)
 <h1 align="center">Hi 👋, I'm Rena Egina</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
