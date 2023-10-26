@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **renaegina25778@gmail.com**
 
-- ⚡ Fun fact **I'm always sad for no reason**
+- ⚡ Fun fact **I'm often sad for no reason**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
